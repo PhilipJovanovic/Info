@@ -1,0 +1,30 @@
+
+body
+{
+	background-color: pink;
+}
+h1 {
+color: beige;
+}
+
+a:link{color:white;}
+a:hover{color:white;}
+a:active{color:red;}
+a:visited{color:white;}
+	
+	
+img{
+	width:25%;
+float:right;
+}
+
+p {
+font-family: sans-serif;
+color:White;
+ }
+ 
+
+
+footer {
+	padding-bottom: 10ex;
+}

@@ -1,0 +1,22 @@
+body{
+	background-color: yellow
+}
+
+h1 {
+color: mediumaquamarine;
+}
+
+img{
+	width:25%;
+float:right;
+}
+
+p {
+	text-align: center;
+font-family: sans-serif;
+color: deeppink;
+ }
+
+footer {
+	margin-bottom: 10px;
+}

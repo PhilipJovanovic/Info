@@ -1,0 +1,21 @@
+h1 {
+color: #00688B;
+}
+
+p {
+font-family: sans-serif;
+text-align: center;
+ }
+ 
+button {
+	position: center;
+color: #00688B;
+}
+
+mg{
+	width:25%;
+float:left;
+}
+footer {
+	padding-bottom: 10ex;
+}
