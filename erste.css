@@ -1,4 +1,45 @@
+body{
+	background-color:grey;
+}
+#Titel
+{
+	background-color: Pink;
+	padding: 10px 40px 10px 49px;
+    position: absolute;
+	width: 100%;
+	
+}
+
+#Inhalt{
+	background-color: #DDDDDD;
+	color: white;
+	padding-left: 15%;
+	padding-top: 10%;
+	left: 11.5%;
+	position: page;
+	top: 50%;
+	height:100%;
+}
+
+#Links{
+	background-color: grey;
+	color:white;
+	font-size: 50%;
+	
+	line-height: 20px;
+	padding: 10px;
+	position: absolute;
+	width: 10%;
+	height:500px;
+	top: 108px;
+}
+a:visited{color:white;}
+a:hover{color: #00688B;}
+
+
 h1 {
+	padding-left: 10;
+	
 color: #00688B;
 }
 
@@ -7,15 +48,6 @@ font-family: sans-serif;
 text-align: center;
  }
  
-button {
-	position: center;
-color: #00688B;
-}
-
-mg{
-	width:25%;
-float:left;
-}
-footer {
-	padding-bottom: 10ex;
-}
+ #menue{
+	 text-align: left;
+ }
